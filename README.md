@@ -9,8 +9,13 @@ Tasks to be performed
 Partition the dashboard to display the details of the primary region and
 secondary region.
 • First Order Date
+
 • Total Sales
+
 • Average Sales per Order
+
 • No. of Customers
+
 • No. of Orders
+
 • No. of Products in Sale
