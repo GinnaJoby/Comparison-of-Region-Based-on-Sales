@@ -8,6 +8,7 @@ Tasks to be performed
 4. Create a dashboard
 Partition the dashboard to display the details of the primary region and
 secondary region.
+
 • First Order Date
 
 • Total Sales
